@@ -6,13 +6,23 @@
 
 ---
 
-###🙋‍♂️ Men haqimda
-	*	🧑‍💻 Men zamonaviy va samarali veb-dasturlar yaratish uchun frontend dasturchiman
-	*	⚡ React.js, Next.js, TailwindCSS, Bootstrap, JavaScript, TypeScript, HTML va CSS bilan ishlayman
-	*	🧠 Har doim yangi texnologiyalarni o‘rganib boraman — ayni paytda Next.js va TypeScript bilan ishlashni chuqurlashtiryapman
-	*	🔍 Kodimda soddalik, aniqlik ammo kuchli mustahkam kod yozaman va SEO ga etibor beraman
-	*	🇺🇿O‘zbekistonlikman, masofadan turib xalqaro jamoalarda ishlashga tayyorman 
+# 🙋‍♂️ Men haqimda
 
+## 🧑‍💻 Frontend Web Dasturchiman
+
+### React.js, Next.js, TailwindCSS, Bootstrap, JavaScript, TypeScript, HTML va CSS bilan ishlayman.
+
+## 🧠 Texnologiyalarni chuqur o‘rganishga qiziqaman
+
+### Ayni paytda Next.js va TypeScript ustida yanada chuqur o'rganishdaman.
+
+## 🔍 Kod sifati va SEO
+
+### Soddalik, aniqlik, va mustahkam kod yozishga intilaman.
+
+## 🌍 Masofadan ishlash
+
+### 🇺🇿 O‘zbekistonlikman, xalqaro jamoalarda masofadan ishlashga tayyorman.
 ---
 
 ### 🛠️ Tech Stack

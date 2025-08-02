@@ -1,7 +1,7 @@
 <!-- Profil banner uchun (agar rasm qo‘shmoqchi bo‘lsangiz) -->
  <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Assalomu-alekum,%20Men%20Axadjon!&fontSize=40&fontAlign=50&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Assalomu%20alekum,%20Men%20Axadjon!&fontSize=40&fontAlign=50&fontColor=ffffff"
   />
 </p>
 

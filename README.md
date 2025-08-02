@@ -21,7 +21,7 @@
 
 # 🙋‍♂️ Men haqimda
 
-## 🧑‍💻 Frontend Dasturchiman  
+## 🧑‍💻 Frontend Web Dasturchiman  
 Zamonaviy va samarali veb-dasturlar yaratishga ixtisoslashganman. Ishlarimda dizayn, tezlik, va funksionallik muhim o‘rinda turadi.
 
 ## ⚒️ Texnologiyalar  
